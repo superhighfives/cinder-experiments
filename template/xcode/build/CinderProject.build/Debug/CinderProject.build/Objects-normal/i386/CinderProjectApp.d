@@ -1,5 +1,5 @@
 dependencies: \
-  /Users/superhighfives/Development/Cinder/Projects/template/xcode/../src/CinderProjectApp.cpp \
+  /Users/superhighfives/Development/Cinder/experiments/template/xcode/../src/CinderProjectApp.cpp \
   ../../../source/cinder_0.8.4_mac/include/cinder/app/AppBasic.h \
   ../../../source/cinder_0.8.4_mac/include/cinder/app/App.h \
   ../../../source/cinder_0.8.4_mac/include/cinder/Cinder.h \
