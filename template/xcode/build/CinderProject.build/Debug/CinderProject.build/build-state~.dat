@@ -1,0 +1,191 @@
+TCinderProject
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/superhighfives/Desktop/Something/CinderProject/xcode/./build/Debug/CinderProject.app/Contents/Info.plist Info.plist
+cCpResource CinderApp.icns ./build/Debug/CinderProject.app/Contents/Resources/CinderApp.icns
+cProcessPCH++ /var/folders/53/yjkwwtn530n4q110q90txlfr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CinderProject_Prefix-cvzkelxwlpsdqleaahmtyfpjrntl/CinderProject_Prefix.pch.pth CinderProject_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC ./build/CinderProject.build/Debug/CinderProject.build/Objects-normal/i386/CinderProjectApp.o /Users/superhighfives/Desktop/Something/CinderProject/xcode/../src/CinderProjectApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/superhighfives/Desktop/Something/CinderProject/xcode/./build/Debug/CinderProject.app/Contents/MacOS/CinderProject normal i386
+cTouch /Users/superhighfives/Desktop/Something/CinderProject/xcode/./build/Debug/CinderProject.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c000000005094730600000000000000AA
+t1351906054
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Accelerate.framework/Accelerate
+c00000000506C08D500000000000024F0
+t1349257429
+s9456
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c00000000506C08D50000000000024D90
+t1349257429
+s150928
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/AudioUnit.framework/AudioUnit
+c00000000506C08D500000000000060B4
+t1349257429
+s24756
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c00000000506C08D500000000000001E5
+t1349257429
+s485
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c00000000506C08D5000000000000E920
+t1349257429
+s59680
+
+N/System/Library/Frameworks/Carbon.framework/Carbon
+c00000000500B62FD00000000000069F0
+t1342923517
+s27120
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c00000000500B62FD0000000000006730
+t1342923517
+s26416
+
+N/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c00000000506C0E400000000000081CB0
+t1349258816
+s531632
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c00000000506C0E60000000000002DAF0
+t1349258848
+s187120
+
+N/System/Library/Frameworks/QTKit.framework/QTKit
+c00000000506C0E6B00000000004A2D90
+t1349258859
+s4861328
+
+N/System/Library/Frameworks/QuickTime.framework/QuickTime
+c00000000506C0E6B0000000000322E20
+t1349258859
+s3288608
+
+N/Users/superhighfives/Desktop/Something/CinderProject/xcode/../src/CinderProjectApp.cpp
+c0000000050E6A5140000000000000227
+t1357292820
+s551
+
+N/Users/superhighfives/Desktop/Something/CinderProject/xcode/./build/CinderProject.build/Debug/CinderProject.build/Objects-normal/i386/CinderProject.LinkFileList
+c0000000050E8569A0000000000000099
+t1357403802
+s153
+
+N/Users/superhighfives/Desktop/Something/CinderProject/xcode/./build/CinderProject.build/Debug/CinderProject.build/Objects-normal/i386/CinderProjectApp.o
+t2
+s0
+
+N/Users/superhighfives/Desktop/Something/CinderProject/xcode/./build/Debug/CinderProject.app
+t2
+s0
+
+N/Users/superhighfives/Desktop/Something/CinderProject/xcode/./build/Debug/CinderProject.app/Contents/Info.plist
+t2
+s0
+
+N/Users/superhighfives/Desktop/Something/CinderProject/xcode/./build/Debug/CinderProject.app/Contents/MacOS/CinderProject
+t2
+s0
+
+N/Users/superhighfives/Desktop/Something/CinderProject/xcode/./build/Debug/CinderProject.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/superhighfives/Desktop/Something/CinderProject/xcode/./build/Debug/CinderProject.app/Contents/Resources/CinderApp.icns
+t2
+s0
+
+N/Users/superhighfives/Desktop/Something/CinderProject/xcode/CinderApp.icns
+c0000000050E6A514000000000001BEB5
+t1357292820
+s114357
+
+N/Users/superhighfives/Desktop/Something/CinderProject/xcode/CinderProject_Prefix.pch
+c0000000050E855F50000000000000094
+t1357403637
+s148
+i<Cocoa/Cocoa.h>
+
+N/var/folders/53/yjkwwtn530n4q110q90txlfr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CinderProject_Prefix-cvzkelxwlpsdqleaahmtyfpjrntl/CinderProject_Prefix.pch.pth
+t2
+s0
+
+NInfo.plist
+c0000000050E6A5140000000000000353
+t1357292820
+s851
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesf3c7a41a8e98b641^fb93b01a8e98b641^---0#1#0#--18"Check dependencies36"824E5013-2EA0-4B07-8A87-4BD6874350A3-
+
+CCompileC ./build/CinderProject.build/Debug/CinderProject.build/Objects-normal/i386/CinderProjectApp.o /Users/superhighfives/Desktop/Something/CinderProject/xcode/../src/CinderProjectApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s379096602.761850
+e379096604.484784
+r1
+xCompileC
+x./build/CinderProject.build/Debug/CinderProject.build/Objects-normal/i386/CinderProjectApp.o
+x/Users/superhighfives/Desktop/Something/CinderProject/xcode/../src/CinderProjectApp.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/superhighfives/Desktop/Something/CinderProject/xcode/../src/CinderProjectApp.cpp3f1dc31a8e98b641^ef1a7c1c8e98b641^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/superhighfives/Desktop/Something/CinderProject/xcode/../src/CinderProjectApp.cpp0000000000000000^3081"CompileC ./build/CinderProject.build/Debug/CinderProject.build/Objects-normal/i386/CinderProjectApp.o ../src/CinderProjectApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/superhighfives/Desktop/Something/CinderProject/xcode    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/superhighfives/Desktop/Something/CinderProject/xcode/./build/CinderProject.build/Debug/CinderProject.build/CinderProject-generated-files.hmap -I/Users/superhighfives/Desktop/Something/CinderProject/xcode/./build/CinderProject.build/Debug/CinderProject.build/CinderProject-own-target-headers.hmap -I/Users/superhighfives/Desktop/Something/CinderProject/xcode/./build/CinderProject.build/Debug/CinderProject.build/CinderProject-all-target-headers.hmap -iquote /Users/superhighfives/Desktop/Something/CinderProject/xcode/./build/CinderProject.build/Debug/CinderProject.build/CinderProject-project-headers.hmap -iquote../../../../Downloads/cinder_0.8.4_mac/include -iquote../include -I/Users/superhighfives/Desktop/Something/CinderProject/xcode/build/Debug/include -I../../../../Downloads/cinder_0.8.4_mac/boost -I/Users/superhighfives/Desktop/Something/CinderProject/xcode/./build/CinderProject.build/Debug/CinderProject.build/DerivedSources/i386 -I/Users/superhighfives/Desktop/Something/CinderProject/xcode/./build/CinderProject.build/Debug/CinderProject.build/DerivedSources -F/Users/superhighfives/Desktop/Something/CinderProject/xcode/build/Debug -include /var/folders/53/yjkwwtn530n4q110q90txlfr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CinderProject_Prefix-cvzkelxwlpsdqleaahmtyfpjrntl/CinderProject_Prefix.pch -MMD -MT dependencies -MF /Users/superhighfives/Desktop/Something/CinderProject/xcode/./build/CinderProject.build/Debug/CinderProject.build/Objects-normal/i386/CinderProjectApp.d --serialize-diagnostics /Users/superhighfives/Desktop/Something/CinderProject/xcode/./build/CinderProject.build/Debug/CinderProject.build/Objects-normal/i386/CinderProjectApp.dia -c /Users/superhighfives/Desktop/Something/CinderProject/xcode/../src/CinderProjectApp.cpp -o /Users/superhighfives/Desktop/Something/CinderProject/xcode/./build/CinderProject.build/Debug/CinderProject.build/Objects-normal/i386/CinderProjectApp.o36"EF926A7A-BED2-438E-9214-C2BC383086CE-
+
+CCpResource CinderApp.icns ./build/Debug/CinderProject.app/Contents/Resources/CinderApp.icns
+s379096602.706396
+e379096602.708644
+r1
+xCpResource
+xCinderApp.icns
+x./build/Debug/CinderProject.app/Contents/Resources/CinderApp.icns
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Copy ./build/Debug/CinderProject.app/Contents/Resources/CinderApp.icns8ae7b41a8e98b641^166ab51a8e98b641^---0#0#0#-19%DVTDocumentLocation2@141"file://localhost/Users/superhighfives/Desktop/Something/CinderProject/xcode/./build/Debug/CinderProject.app/Contents/Resources/CinderApp.icns000000000080d041^457"CpResource CinderApp.icns ./build/Debug/CinderProject.app/Contents/Resources/CinderApp.icns    cd /Users/superhighfives/Desktop/Something/CinderProject/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/superhighfives/Desktop/Something/CinderProject/xcode/CinderApp.icns /Users/superhighfives/Desktop/Something/CinderProject/xcode/./build/Debug/CinderProject.app/Contents/Resources36"A6C2AF3B-760A-4933-AD2D-74278636C1DA-
+
+CLd /Users/superhighfives/Desktop/Something/CinderProject/xcode/./build/Debug/CinderProject.app/Contents/MacOS/CinderProject normal i386
+s379096604.491689
+e379096605.222072
+r1
+xLd
+x/Users/superhighfives/Desktop/Something/CinderProject/xcode/./build/Debug/CinderProject.app/Contents/MacOS/CinderProject
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Link /Users/superhighfives/Desktop/Something/CinderProject/xcode/./build/Debug/CinderProject.app/Contents/MacOS/CinderProject5ef47d1c8e98b641^f9d9381d8e98b641^---0#0#0#--1136"Ld ./build/Debug/CinderProject.app/Contents/MacOS/CinderProject normal i386    cd /Users/superhighfives/Desktop/Something/CinderProject/xcode    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/superhighfives/Desktop/Something/CinderProject/xcode/build/Debug -F/Users/superhighfives/Desktop/Something/CinderProject/xcode/build/Debug -filelist /Users/superhighfives/Desktop/Something/CinderProject/xcode/./build/CinderProject.build/Debug/CinderProject.build/Objects-normal/i386/CinderProject.LinkFileList -mmacosx-version-min=10.8 ../../../../Downloads/cinder_0.8.4_mac/lib/libcinder_d.a -lcurl -framework Cocoa -framework OpenGL -framework Carbon -framework CoreVideo -framework QTKit -framework QuickTime -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -o /Users/superhighfives/Desktop/Something/CinderProject/xcode/./build/Debug/CinderProject.app/Contents/MacOS/CinderProject36"8E458B0D-F3FD-478B-8A7B-E24092D59EDA-
+
+CProcessInfoPlistFile /Users/superhighfives/Desktop/Something/CinderProject/xcode/./build/Debug/CinderProject.app/Contents/Info.plist Info.plist
+s379096602.695327
+e379096602.698579
+r1
+xProcessInfoPlistFile
+x/Users/superhighfives/Desktop/Something/CinderProject/xcode/./build/Debug/CinderProject.app/Contents/Info.plist
+xInfo.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Process Info.plist3b36b21a8e98b641^aad6b21a8e98b641^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/superhighfives/Desktop/Something/CinderProject/xcode/Info.plist0000000000000000^465"ProcessInfoPlistFile ./build/Debug/CinderProject.app/Contents/Info.plist Info.plist    cd /Users/superhighfives/Desktop/Something/CinderProject/xcode    builtin-infoPlistUtility Info.plist -genpkginfo /Users/superhighfives/Desktop/Something/CinderProject/xcode/./build/Debug/CinderProject.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/superhighfives/Desktop/Something/CinderProject/xcode/./build/Debug/CinderProject.app/Contents/Info.plist36"CE8257F9-69F1-41AF-8349-5918D57410CC-
+
+CProcessPCH++ /var/folders/53/yjkwwtn530n4q110q90txlfr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CinderProject_Prefix-cvzkelxwlpsdqleaahmtyfpjrntl/CinderProject_Prefix.pch.pth CinderProject_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s379096602.716866
+e379096602.755205
+r1
+xProcessPCH++
+x/var/folders/53/yjkwwtn530n4q110q90txlfr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CinderProject_Prefix-cvzkelxwlpsdqleaahmtyfpjrntl/CinderProject_Prefix.pch.pth
+xCinderProject_Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Precompile CinderProject_Prefix.pch96b3b71a8e98b641^b455c11a8e98b641^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/superhighfives/Desktop/Something/CinderProject/xcode/CinderProject_Prefix.pch0000000000000000^3044"ProcessPCH++ /var/folders/53/yjkwwtn530n4q110q90txlfr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CinderProject_Prefix-cvzkelxwlpsdqleaahmtyfpjrntl/CinderProject_Prefix.pch.pth CinderProject_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/superhighfives/Desktop/Something/CinderProject/xcode    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++-header -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote /Users/superhighfives/Desktop/Something/CinderProject/xcode/./build/CinderProject.build/Debug/CinderProject.build/CinderProject-generated-files.hmap -I/Users/superhighfives/Desktop/Something/CinderProject/xcode/./build/CinderProject.build/Debug/CinderProject.build/CinderProject-own-target-headers.hmap -I/Users/superhighfives/Desktop/Something/CinderProject/xcode/./build/CinderProject.build/Debug/CinderProject.build/CinderProject-all-target-headers.hmap -iquote /Users/superhighfives/Desktop/Something/CinderProject/xcode/./build/CinderProject.build/Debug/CinderProject.build/CinderProject-project-headers.hmap -iquote../../../../Downloads/cinder_0.8.4_mac/include -iquote../include -I/Users/superhighfives/Desktop/Something/CinderProject/xcode/build/Debug/include -I../../../../Downloads/cinder_0.8.4_mac/boost -I/Users/superhighfives/Desktop/Something/CinderProject/xcode/./build/CinderProject.build/Debug/CinderProject.build/DerivedSources/i386 -I/Users/superhighfives/Desktop/Something/CinderProject/xcode/./build/CinderProject.build/Debug/CinderProject.build/DerivedSources -F/Users/superhighfives/Desktop/Something/CinderProject/xcode/build/Debug --serialize-diagnostics /var/folders/53/yjkwwtn530n4q110q90txlfr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CinderProject_Prefix-cvzkelxwlpsdqleaahmtyfpjrntl/CinderProject_Prefix.pch.dia -c /Users/superhighfives/Desktop/Something/CinderProject/xcode/CinderProject_Prefix.pch -o /var/folders/53/yjkwwtn530n4q110q90txlfr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CinderProject_Prefix-cvzkelxwlpsdqleaahmtyfpjrntl/CinderProject_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/53/yjkwwtn530n4q110q90txlfr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/CinderProject_Prefix-cvzkelxwlpsdqleaahmtyfpjrntl/CinderProject_Prefix.pch.d36"AF500455-F43E-42AC-A4D5-20487A99100E-
+
+CTouch /Users/superhighfives/Desktop/Something/CinderProject/xcode/./build/Debug/CinderProject.app
+s379096605.230433
+e379096605.238520
+r1
+xTouch
+x/Users/superhighfives/Desktop/Something/CinderProject/xcode/./build/Debug/CinderProject.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Touch /Users/superhighfives/Desktop/Something/CinderProject/xcode/./build/Debug/CinderProject.app9e0b3b1d8e98b641^2c103d1d8e98b641^---0#0#0#--219"Touch ./build/Debug/CinderProject.app    cd /Users/superhighfives/Desktop/Something/CinderProject/xcode    /usr/bin/touch -c /Users/superhighfives/Desktop/Something/CinderProject/xcode/./build/Debug/CinderProject.app36"E90F71E9-E76A-46B6-818E-FD5B656FA367-
+
